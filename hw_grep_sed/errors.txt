@@ -1,0 +1,3 @@
+ERROR Database connection failed
+WARNING Disk space low
+ERROR File not found
